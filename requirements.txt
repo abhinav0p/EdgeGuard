@@ -1,0 +1,10 @@
+# EdgeGuard Dependencies
+# Required packages for data processing, machine learning models, and the Streamlit dashboard
+
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
+joblib
+matplotlib
